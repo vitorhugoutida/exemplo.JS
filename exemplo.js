@@ -27,3 +27,6 @@ let pontos = 100
 let notaAluno = parseFloat(prompt("Digite a nota do aluno: "))
 
 console.log(notaAluno)
+
+// // ==   -> Verifica se um valor é igual à outro                 -> true
+// // ===  -> Verifica se o valor e o tipo dos itens são iguais    -> false
