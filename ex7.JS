@@ -28,6 +28,31 @@
 //     alert(novovalortotal = valortotal * 0.8 + " Com desconto de 20%")
 // }
 
+// -------------------------------------------------------------------------
+
+// let valorTotal = parseFloat(prompt("Informe o valor total da compra: "))
+
+// let desconto;
+
+// if (valorTotal <= 100) {
+//     desconto = 0;
+//     console.log("O valor de desconto foi: " + desconto);
+// }
+
+// else if (valorTotal <= 200) {
+//     desconto = 0.1;
+//     console.log("O valor de desconto foi de: " + (desconto * 100) + "%");
+// }
+
+// else {
+//     desconto = 0.2;
+//     console.log("O valor de desconto foi de: " + (desconto * 100) + "%");
+// }
+
+// let valorFinal = valorTotal - (valorTotal * desconto);
+
+// console.log ("Valor final da compra com o desconto: R$" + valorFinal.toFixed(2))
+
 
 
 

@@ -9,3 +9,21 @@
 
 // if (ano > 2006 )
 //     alert("menor de idade")
+
+// // ---------------------------------------------------------------------------------------
+
+// let anoNascimento = parseInt(prompt("Informe o ano de nascimento"))
+
+// let anoAtual = new Date().getFullYear;
+
+// let idade = anoAtual - anoNascimento;
+
+// if(idade >= 18) {
+//     console.log("Você é maior de idade")
+//     console.log("Sua idade é :" + idade)
+
+// } else{
+//     console.log("Menor idade")
+//     console.log("Sua idade é :" + idade)
+// }
+

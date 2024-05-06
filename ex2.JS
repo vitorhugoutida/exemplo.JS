@@ -29,3 +29,20 @@
 // }
 
 
+// -------------------------------------------------------------------------------------------------------
+
+
+// let dia_semana = prompt("Informe um numero de 1 a 7: ")
+
+// switch (dia_semana) {
+//     case "1":
+//         console.log("Segunda-Feira")
+//         break;
+
+//     default:
+//         console.log("O numero náo é valido")
+//         break;
+
+
+// }
+

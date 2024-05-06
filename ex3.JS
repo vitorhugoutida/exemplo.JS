@@ -11,3 +11,14 @@
 // else {
 //     alert("Impar")
 // }
+
+// -------------------------------------------------------------------
+
+// let num = parseInt(prompt("Informe um número interno: "))
+
+// if (num%2!==0){
+//     console.log("O número informado é par")
+
+// }else {
+//     console.log("O número informado é impar")
+// }
